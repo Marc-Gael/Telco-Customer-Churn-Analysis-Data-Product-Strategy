@@ -2,7 +2,7 @@
 
 ## 🧠 Contexte du projet
 
-Dans le secteur des télécommunications, la fidélisation client est un enjeu majeur. Ce projet vise à analyser les causes de résiliation (churn) en utilisant un jeu de données client fictif issu d’un opérateur Telco. L'objectif est d'identifier les profils à risque et proposer des **actions produit et marketing concrètes** pour améliorer la rétention.
+Dans le secteur des télécommunications, la fidélisation client est un enjeu majeur. Ce projet vise à analyser les causes de résiliation (churn) en utilisant un jeu de données client télchargé sur [Kaggle](https://www.kaggle.com/code/farazrahman/telco-customer-churn-logisticregression) issu d’un opérateur Telco. L'objectif est d'identifier les profils à risque et proposer des **actions produit et marketing concrètes** pour améliorer la rétention.
 
 ---
 
