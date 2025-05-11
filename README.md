@@ -43,23 +43,30 @@ Dans le secteur des télécommunications, la fidélisation client est un enjeu m
 
 ![Dashboard Excel](./Dashboard_Excel.png)
 
-Ce tableau de bord montre les indicateurs clés du churn par :
-- Type de contrat
-- Revenu mensuel
-- Durée de l’abonnement
-- Services souscrits
+e tableau de bord construit avec Excel propose une vue synthétique du churn client. Il permet :
 
+- Une analyse du **churn rate global** avec mise en évidence des segments les plus touchés.
+- L’identification des **principaux indicateurs** associés à la résiliation (revenu mensuel, ancienneté, type de contrat).
+- Une segmentation visuelle des clients selon leur statut (Churn / Non-Churn).
+
+🔁 **Recommandation** :
+> Utiliser ce type de reporting rapide dans les revues hebdomadaires pour surveiller les signaux faibles et réagir rapidement sur les offres ou la communication ciblée.
 ---
 
 ### 📊 Dashboard Power BI
 
 ![Dashboard Power BI](./Dashboard_PowerBI.png)
 
-Dashboard interactif simulé (capture d’écran) avec :
-- Filtrage par profil client
-- Analyse croisée churn vs services
-- Représentation visuelle par heatmaps et bar charts
+Ce tableau de bord interactif Power BI permet une analyse multidimensionnelle du churn. Il inclut :
 
+- **Filtres dynamiques** sur le type de contrat, l’InternetService, le support technique, etc.
+- Une visualisation du churn en fonction de **la durée de l’abonnement** et du **revenu mensuel**.
+- Une analyse croisée entre **services souscrits** et **probabilité de churn**.
+
+📌 **Insights & Recommandations produit / marketing** :
+- 🎯 **Clients avec contrat mensuel = churn élevé** : Proposer des incitations à migrer vers des contrats annuels (ex. : remise, bonus data).
+- 💰 **Revenus mensuels élevés mais churn = fort potentiel perdu** : Créer des offres VIP avec support prioritaire.
+- 🧾 **Faible tenure + churn élevé** : Optimiser l’onboarding client et les 90 premiers jours.
 ---
 
 ## 🔍 Insights clés & Recommandations
