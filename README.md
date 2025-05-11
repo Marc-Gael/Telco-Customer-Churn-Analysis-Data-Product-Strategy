@@ -139,4 +139,4 @@ Cette analyse démontre comment une lecture approfondie des données peut orient
 ## 🧑‍💼 Réalisé par
 
 Marc-Gaël ZEME  
-*Product & Data Strategist* — [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)  
+*Product & Data Strategist* — [LinkedIn](www.linkedin.com/in/marc-gaël-zeme) | [GitHub](https://github.com/)  
