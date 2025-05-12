@@ -32,7 +32,7 @@ Dans le secteur des télécommunications, la fidélisation client est un enjeu m
 Voici la stack utilisée pour ce projet d’analyse du churn dans le secteur télécom :
 
 ### 📁 Données & Traitement
-- **Microsoft Excel** : Nettoyage initial, analyse exploratoire, traitement des variables catégorielles, création des features, modélisation prédictive (prédiction heuristique, création d’un tableau de bord statique.
+- **Microsoft Excel** : Nettoyage initial, analyse exploratoire, traitement des variables catégorielles, création des features, modélisation prédictive (prédiction heuristique, création d’un tableau de bord interactif qui montre directement les clients à risque.
 
 ### 📈 Visualisation & Reporting
 - **Excel Dashboard** : KPI de churn, ratios, segmentation visuelle (vue rapide & synthétique).
